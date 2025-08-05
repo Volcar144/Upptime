@@ -4,18 +4,20 @@
     "url": "https://git.archiem.top",
     "icon": "https://icons.duckduckgo.com/ip3/git.archiem.top.ico",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 19833,
-    "timeDay": 19833,
-    "timeWeek": 19833,
-    "timeMonth": 19833,
-    "timeYear": 19833,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 10147,
+    "timeDay": 10147,
+    "timeWeek": 10147,
+    "timeMonth": 10147,
+    "timeYear": 10147,
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Short URL",
