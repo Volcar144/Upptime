@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.archiem.top.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 10147,
-    "timeDay": 10147,
-    "timeWeek": 10147,
-    "timeMonth": 10147,
-    "timeYear": 10147,
+    "uptime": "4.02%",
+    "uptimeDay": "4.02%",
+    "uptimeWeek": "4.02%",
+    "uptimeMonth": "4.02%",
+    "uptimeYear": "4.02%",
+    "time": 6954,
+    "timeDay": 6954,
+    "timeWeek": 6954,
+    "timeMonth": 6954,
+    "timeYear": 6954,
     "dailyMinutesDown": {
-      "2025-08-05": 0
+      "2025-08-06": 121,
+      "2025-08-05": 604
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 807,
-    "timeWeek": 818,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "time": 800,
+    "timeDay": 764,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   }
 ]
