@@ -1,27 +1,5 @@
 [
   {
-    "name": "gitea",
-    "url": "https://git.archiem.top",
-    "icon": "https://icons.duckduckgo.com/ip3/git.archiem.top.ico",
-    "slug": "gitea",
-    "status": "down",
-    "uptime": "1.38%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
-    "time": 5339,
-    "timeDay": 491,
-    "timeWeek": 5339,
-    "timeMonth": 5339,
-    "timeYear": 5339,
-    "dailyMinutesDown": {
-      "2025-08-07": 121,
-      "2025-08-06": 1440,
-      "2025-08-05": 604
-    }
-  },
-  {
     "name": "Short URL",
     "url": "https://l.archiem.top",
     "icon": "https://icons.duckduckgo.com/ip3/l.archiem.top.ico",
@@ -32,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 778,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
+    "time": 798,
+    "timeDay": 791,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 139,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 285,
+    "timeDay": 225,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
