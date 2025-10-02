@@ -22,17 +22,17 @@
     "url": "https://api.archiem.top/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.archiem.top.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 294,
-    "timeWeek": 285,
-    "timeMonth": 317,
-    "timeYear": 341,
+    "time": 344,
+    "timeDay": 349,
+    "timeWeek": 308,
+    "timeMonth": 323,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   }
 ]
