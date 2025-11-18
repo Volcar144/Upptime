@@ -1,7 +1,7 @@
 url: https://api.archiem.top/health
-status: down
-code: 500
-responseTime: 277
-lastUpdated: 2025-11-18T11:59:19.124Z
+status: up
+code: 200
+responseTime: 217
+lastUpdated: 2025-11-18T13:18:58.443Z
 startTime: 2025-08-05T10:41:50.721Z
 generator: Upptime <https://github.com/upptime/upptime>
